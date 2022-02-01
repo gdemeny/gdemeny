@@ -1,0 +1,4 @@
+- 👋 Hi, I’m George Demeny.
+- 👀 I've been a ColdFusion developer for 18 years and now I’m interested in blockchain development.
+- 🌱 I’m currently learning about the Solana blockchain, TypeScript, and Rust.
+- 📫 How to reach me: gdemeny@demeny.com
